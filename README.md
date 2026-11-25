@@ -1,10 +1,12 @@
-# ELEC 3 - Node.js
+# ELEC3-Nodejs-DeVera
 
-Name: Angelo
+Full name: De Vera, John Angelo
 
 Section: IV-BSIT C
 
-Course: ELEC 3 - Node.js
+Course code: ELEC 3 - Node.js
+
+Course title: Node.js Programming
 
 ## Activities
 
